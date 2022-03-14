@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f1851c5-517a-446e-8ee7-cf4186ae34e2" name="Default Changelist" comment="Initial commit" />
+    <list id="9173b929-457e-4fd8-8f2e-bc27fc4eea5d" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit ebcca6e5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="109bda92-bea3-42a0-b9e4-b76999694f00" />
+  <component name="ProjectId" id="26ODBWDsMVIDOwjbkVmU0nEsyz1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f1851c5-517a-446e-8ee7-cf4186ae34e2" name="Default Changelist" comment="" />
+      <created>1647285604021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647285604021</updated>
+      <workItem from="1647285605071" duration="1123000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1647285839162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647285839162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1647286441381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647286441381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="80" key="CommitChangelistDialog2" timestamp="1647286573735">
+      <screen x="84" y="0" width="1946" height="1027" />
+    </state>
+    <state x="669" y="80" key="CommitChangelistDialog2/84.0.1946.1027@84.0.1946.1027" timestamp="1647286573735" />
+    <state x="838" y="255" key="FileChooserDialogImpl" timestamp="1647286624948">
+      <screen x="84" y="0" width="1946" height="1027" />
+    </state>
+    <state x="838" y="255" key="FileChooserDialogImpl/84.0.1946.1027@84.0.1946.1027" timestamp="1647286624948" />
+    <state x="922" y="412" key="Github.ShareDialog" timestamp="1647285905686">
+      <screen x="84" y="0" width="1946" height="1027" />
+    </state>
+    <state x="922" y="412" key="Github.ShareDialog/84.0.1946.1027@84.0.1946.1027" timestamp="1647285905686" />
+    <state x="567" y="159" key="SettingsEditor" timestamp="1647286323281">
+      <screen x="84" y="0" width="1946" height="1027" />
+    </state>
+    <state x="567" y="159" key="SettingsEditor/84.0.1946.1027@84.0.1946.1027" timestamp="1647286323281" />
+    <state x="650" y="247" key="Vcs.Push.Dialog.v2" timestamp="1647285869680">
+      <screen x="84" y="0" width="1946" height="1027" />
+    </state>
+    <state x="650" y="247" key="Vcs.Push.Dialog.v2/84.0.1946.1027@84.0.1946.1027" timestamp="1647285869680" />
+    <state x="858" y="415" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647286399973">
+      <screen x="84" y="0" width="1946" height="1027" />
+    </state>
+    <state x="858" y="415" key="git4idea.remote.GitConfigureRemotesDialog/84.0.1946.1027@84.0.1946.1027" timestamp="1647286399973" />
+  </component>
+</project>
